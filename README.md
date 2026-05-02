@@ -3,6 +3,7 @@
 # ⚡ Abdullah Mohamed Saber
 **Building scalable systems, immersive experiences, and products that hold under pressure.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-08D9D6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdullah-saber.github.io/MY-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohamed-saber/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-Saber)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:A.mohammed2256@nu.edu.eg)
@@ -45,18 +46,18 @@ I focus on building real, production-level systems—not just academic exercises
 
 ### 🧠 STEM AI Tutor Platform (Stemmy)
 *An intelligent tutoring system designed to simplify complex STEM subjects.*
-*   **Focus:** Integrates a YOLOv8 model for facial recognition to analyze user emotions, utilizing a humorous approach (generating memes) to make concepts accessible[cite: 1]. Showcased at UGRF 20th Edition[cite: 1].
-*   **Stack:** FastAPI, React, PyTorch, Hugging Face, YOLOv8, GANs, Speech-to-Text[cite: 1].
+*   **Focus:** Integrates a YOLOv8 model for facial recognition to analyze user emotions, utilizing a humorous approach (generating memes) to make concepts accessible. Showcased at UGRF 20th Edition.
+*   **Stack:** FastAPI, React, PyTorch, Hugging Face, YOLOv8, GANs, Speech-to-Text.
 
 ### 👁️ Smart Bridge (NAID Internship)
 *An assistive technology prototype engineered for deaf-blind individuals.*
-*   **Focus:** Features real-time sign recognition, OCR integration, and Braille display output combined with an accessible UI to promote inclusion in tech[cite: 1].
-*   **Stack:** Computer Vision, Accessible UI Design[cite: 1].
+*   **Focus:** Features real-time sign recognition, OCR integration, and Braille display output combined with an accessible UI to promote inclusion in tech.
+*   **Stack:** Computer Vision, Accessible UI Design.
 
 ### 🏥 Medix_AI & Disabled-Friendly Educational Platform
 *Scalable backend systems and inclusive digital environments.*
 *   **Medix_AI:** Backend-centric .NET platform focusing on reliability, security, and AI integration. 
-*   **Inclusive Ed-Platform:** A multimodal Django/Python system utilizing screen readers and voice recognition to improve user autonomy[cite: 1].
+*   **Inclusive Ed-Platform:** A multimodal Django/Python system utilizing screen readers and voice recognition to improve user autonomy.
 
 <br/>
 
@@ -64,19 +65,22 @@ I focus on building real, production-level systems—not just academic exercises
 
 | Award / Milestone | Description | Impact |
 | :--- | :--- | :--- |
-| 🥈 **2nd Place (UGRF 19th Edition)** | Engineered a secure image encryption tool utilizing linear algebra[cite: 1]. | Recognized for innovative problem-solving and mathematical application[cite: 1]. |
+| 🥈 **2nd Place (UGRF 19th Edition)** | Engineered a secure image encryption tool utilizing linear algebra. | Recognized for innovative problem-solving and mathematical application. |
 | 🚀 **NASA Space Apps Challenge** | Competed in the *"Will It Rain on My Parade?"* challenge. | Developed a weather forecasting solution integrating deep learning with NASA Earth monitoring data. |
-| 💻 **ITI .NET Core Training** | Completed a 120-hour intensive summer program (Aug 2025)[cite: 1]. | Mastered production-grade SQL, C#, Entity Framework, and ASP.NET MVC architecture[cite: 1]. |
+| 💻 **ITI .NET Core Training** | Completed a 120-hour intensive summer program (Aug 2025). | Mastered production-grade SQL, C#, Entity Framework, and ASP.NET MVC architecture. |
 | 🎮 **Egypt Game Jam** | Developed an alien infiltration VR stealth game under the theme "Identity". | Engineered immersive mechanics and managed rapid prototyping under strict time limits. |
-| 🤖 **Zewail City AI Training** | Introduction to AI Summer Training (Jul - Oct 2022)[cite: 1]. | Applied computer vision for object detection and segmentation in steel factory environments[cite: 1]. |
-| 💼 **ITIDA GIGs Freelance Trainee** | 3-month professional program powered by EYouth (Jan - May 2025)[cite: 1]. | Secured first freelance project, mastering technical proposal writing and client management[cite: 1]. |
-| 🎓 **ITCS Partial Scholarship** | Nile University School of ITCS[cite: 1]. | Maintained continuously from 2022 to 2025 for academic excellence[cite: 1]. |
+| 🤖 **Zewail City AI Training** | Introduction to AI Summer Training (Jul - Oct 2022). | Applied computer vision for object detection and segmentation in steel factory environments. |
+| 💼 **ITIDA GIGs Freelance Trainee** | 3-month professional program powered by EYouth (Jan - May 2025). | Secured first freelance project, mastering technical proposal writing and client management. |
+| 🎓 **ITCS Partial Scholarship** | Nile University School of ITCS. | Maintained continuously from 2022 to 2025 for academic excellence. |
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Saber&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saber&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Saber&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Abdullah-Saber)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saber&layout=compact&theme=radical&hide_border=true)](https://github.com/Abdullah-Saber)
+
 </div>
