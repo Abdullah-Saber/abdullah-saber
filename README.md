@@ -4,16 +4,19 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Building+scalable+systems+under+pressure;AI+%2B+.NET+%2B+Game+Dev+%3D+My+Stack;Clean+Architecture+%7C+Production-Ready+Code;NASA+Hackathon+Competitor+%F0%9F%9A%80;Computer+Science+%40+Nile+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=700&lines=Building+scalable+systems+under+pressure;AI+%2B+.NET+%2B+Game+Dev+%3D+My+Stack;Clean+Architecture+%7C+Production-Ready+Code;NASA+Hackathon+Competitor+%F0%9F%9A%80;Computer+Science+%40+Nile+University+%F0%9F%8E%93;UGRF+2nd+Place+%F0%9F%A5%88+%7C+Open+to+Work)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-08D9D6?style=for-the-badge&logoColor=white)](https://abdullah-saber.github.io/MY-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-08D9D6?style=for-the-badge)](https://abdullah-saber.github.io/MY-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohamed-saber/)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:A.mohammed2256@nu.edu.eg)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah-Saber)
 
 <br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Saber&color=00D4FF&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Abdullah-Saber?style=flat-square&color=00D4FF&label=Followers)
 
 > *"Architecture before code. Clarity before cleverness."*
 
@@ -27,6 +30,23 @@ I'm a Computer Science student at **Nile University** (CGPA 3.5) who builds real
 
 I've competed in the **NASA Space Apps Challenge**, placed **2nd at UGRF**, shipped AI products, and built a VR Digital Twin of an entire university campus. I care deeply about clean architecture, performance, and engineering systems that actually scale.
 
+```yaml
+name:       Abdullah Mohamed Saber
+location:   Cairo, Egypt 🇪🇬
+education:  BSc Computer Science @ Nile University (CGPA 3.5)
+focus:      .NET Full-Stack | AI/ML | Game & XR Development
+status:     Open to Opportunities ✅
+languages:  C#, Python, JavaScript, TypeScript, SQL
+```
+
+<br/>
+
+## 🔥 Currently Working On
+
+- 🏥 **Medixa AI** — Shipping an AI-powered medical intelligence platform (ASP.NET Core + AI)
+- 🎓 **Graduation Project** — NUVerse VR Digital Twin of Nile University (Unity + Blender)
+- 📚 Deepening expertise in **System Design** and **Distributed Systems**
+
 <br/>
 
 ## 🏗️ Featured Projects — Ranked by Impact
@@ -34,33 +54,35 @@ I've competed in the **NASA Space Apps Challenge**, placed **2nd at UGRF**, ship
 ---
 
 ### 🥇 Medixa AI — Smart Medical Intelligence Platform
-> AI-powered medical lab system | Most Complex & Recent
+> Full-Stack AI Medical System | Most Complex & Recent
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/Abdullah-Saber/Medixa-AI)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Abdullah-Saber/Medixa-AI)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/Abdullah-Saber/Medixa-AI)
-[![AI](https://img.shields.io/badge/AI_Integrated-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/Abdullah-Saber/Medixa-AI)
+[![Repo](https://img.shields.io/badge/Frontend_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Medixa-AI)
+[![Backend](https://img.shields.io/badge/Backend_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/medixa-ai-backend)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
+[![AI](https://img.shields.io/badge/AI_Integrated-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
 
-A full-stack AI-powered medical lab intelligence system featuring intelligent diagnosis support, scalable backend APIs, and a clean responsive frontend. Demonstrates end-to-end product engineering from data layer to UI — with AI integration baked in from the ground up.
-
-**→ [Frontend Repo](https://github.com/Abdullah-Saber/Medixa-AI) | [Backend Repo](https://github.com/Abdullah-Saber/medixa-ai-backend)**
+A full-stack AI-powered medical lab intelligence system featuring intelligent diagnosis support, scalable backend REST APIs (ASP.NET Core), and a clean responsive frontend. End-to-end product engineering with AI baked in from the ground up.
 
 ---
 
 ### 🥈 NUVerse — VR Digital Twin of Nile University
-> Unity + Blender | Immersive XR Campus System
+> Unity + Blender | Immersive XR Campus | Graduation Project
 
-[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](#)
 [![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)](#)
 
-A multi-platform VR/Web/Mobile system serving as a realistic "Digital Twin" of Nile University. Includes high-fidelity architectural modeling, immersive campus tours, and virtual learning environments. Showcased as Graduation Project — production-grade XR engineering.
+A multi-platform VR/Web/Mobile system serving as a realistic "Digital Twin" of Nile University. High-fidelity 3D architectural modeling, immersive campus tours, and virtual learning environments. Graduation project — production-grade XR engineering.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Grad-Project)
 
 ---
 
-### 🥉 Stemmy — AI-Powered STEM Tutor (UGRF Showcase)
-> YOLOv8 + Emotion AI + Meme Generation | Exhibited at UGRF 20th Edition
+### 🥉 Stemmy — AI STEM Tutor (UGRF 20th Exhibition)
+> YOLOv8 + Emotion AI + Meme Generation | Publicly Showcased
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#)
@@ -68,78 +90,59 @@ A multi-platform VR/Web/Mobile system serving as a realistic "Digital Twin" of N
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)](#)
 
-An intelligent tutoring system with a YOLOv8 emotion recognition model that detects student confusion in real-time and responds with generated memes to re-engage learners. Integrates GANs, Hugging Face models, and Speech-to-Text. Exhibited publicly at UGRF.
+AI tutoring system with a **real-time emotion recognition model** (YOLOv8) that detects student confusion and auto-generates memes to re-engage them. Integrates GANs, Hugging Face models, and Speech-to-Text. Exhibited publicly at UGRF 20th Edition.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Stemmy-Omega-Team)
 
 ---
 
-### 🏅 Koda — E-Commerce Clothing Brand (TypeScript)
-> Next-Generation Retail Frontend | TypeScript + React
+### 🏅 NASA Space Apps Challenge
+> Weather Forecasting + Deep Learning + NASA Earth Data
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/Abdullah-Saber/Koda_landing-page)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Abdullah-Saber/Koda_landing-page)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](#)
 
-High-quality landing page for a clothing brand built in TypeScript — featuring modern design, smooth animations, and production-ready code structure.
+International hackathon project: *"Will It Rain on My Parade?"* — built a weather forecasting solution integrating deep learning with NASA satellite Earth-monitoring data. Competed against global teams.
 
-**→ [Live Demo](https://abdullah-saber.github.io/Koda_landing-page/) | [Repo](https://github.com/Abdullah-Saber/Koda_landing-page)**
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Will-It-Rain-In-My-Parade-NASA-Challenge)
+
+---
+
+### 🏅 Koda — E-Commerce Brand Landing Page
+> TypeScript + React | Live Deployed
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+
+High-quality clothing brand landing page built in TypeScript — modern design, smooth animations, production-ready code.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Koda_landing-page)
+[![Live](https://img.shields.io/badge/Live_Demo-00C851?style=flat-square&logo=vercel&logoColor=white)](https://abdullah-saber.github.io/Koda_landing-page/)
 
 ---
 
 ### 🏅 Library Management System — ASP.NET Core
-> Full-Stack CRUD System | C# + Entity Framework + SQL Server
+> Full-Stack CRUD | C# + Entity Framework + SQL Server
 
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/Abdullah-Saber/Library-Management-System)
-[![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/Abdullah-Saber/Library-Management-System)
-[![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](https://github.com/Abdullah-Saber/Library-Management-System)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
+[![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#)
 
-Clean, production-style library system showcasing Entity Framework relationships, ASP.NET MVC patterns, and clean data access layers. Built during DEPI .NET intensive training.
+Clean, production-style library system with full Entity Framework relationships, ASP.NET MVC patterns, and clean data access layers.
 
-**→ [Repo](https://github.com/Abdullah-Saber/Library-Management-System)**
-
----
-
-### 🏅 Machine Learning Project — Jupyter Notebooks
-> ML/Data Science | Python + Scikit-Learn + Jupyter
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Abdullah-Saber/Machine-Project)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/Abdullah-Saber/Machine-Project)
-
-Data science and ML experiments covering model training, evaluation pipelines, and analysis. The only forked project on the profile — signals genuine community engagement.
-
-**→ [Repo](https://github.com/Abdullah-Saber/Machine-Project)**
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Library-Management-System)
 
 ---
 
-### 🏅 Encouragement by Empowerment — Nonprofit Website
-> HTML/CSS/JS | Deployed on GitHub Pages
+### 🏅 Machine Learning Project
+> Python + Scikit-Learn + Jupyter | Community Engagement (1 Fork)
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Abdullah-Saber/Encouragement-by-Empowerment.-org)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/Abdullah-Saber/Encouragement-by-Empowerment.-org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
 
-Modern website built for a real nonprofit organization. Demonstrates ability to ship for real-world clients with a professional deployment.
+ML experiments covering model training, evaluation pipelines, and data analysis. Forked by the community — signals real-world value.
 
-**→ [Live Site](https://abdullah-saber.github.io/Encouragement-by-Empowerment.-org/) | [Repo](https://github.com/Abdullah-Saber/Encouragement-by-Empowerment.-org)**
-
----
-
-### 🏅 Wanderlust — Modern Tourism Landing Page
-> HTML + CSS + JS | Deployed & Live
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/Abdullah-Saber/wanderlust-travel)
-
-Clean, modern tourism landing page with smooth UX. Live deployment via GitHub Pages.
-
-**→ [Live Demo](https://abdullah-saber.github.io/wanderlust-travel/) | [Repo](https://github.com/Abdullah-Saber/wanderlust-travel)**
-
----
-
-### 🏅 Task Manager App — .NET Backend
-> C# | Desktop App
-
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://github.com/Abdullah-Saber/Task_Managemer_App)
-
-Full-featured task management application built in C# demonstrating OOP design patterns and clean code practices.
-
-**→ [Repo](https://github.com/Abdullah-Saber/Task_Managemer_App)**
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Abdullah-Saber/Machine-Project)
 
 ---
 
@@ -149,14 +152,15 @@ Full-featured task management application built in C# demonstrating OOP design p
 
 <div align="center">
 
-### Backend & Systems
+### 🔵 Backend & Systems
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & Machine Learning
+### 🔴 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
@@ -164,8 +168,9 @@ Full-featured task management application built in C# demonstrating OOP design p
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Frontend & Web
+### 🟡 Frontend & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -174,35 +179,19 @@ Full-featured task management application built in C# demonstrating OOP design p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Game & XR Development
+### 🎮 Game & XR Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![VR](https://img.shields.io/badge/VR_Development-1C1C1C?style=for-the-badge&logo=oculus&logoColor=white)
+![VR Dev](https://img.shields.io/badge/VR_Development-1C1C1C?style=for-the-badge&logo=oculus&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-### Tools & DevOps
+### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🏆 Awards & Milestones
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details | 🎯 Impact |
-|:---|:---|:---|
-| 🥈 **2nd Place — UGRF 19th Edition** | Secure image encryption using linear algebra | Recognized for innovative math application |
-| 🚀 **NASA Space Apps Challenge** | *"Will It Rain on My Parade?"* — Weather + Deep Learning | International hackathon competitor |
-| 🧪 **UGRF 20th Exhibition** | Showcased Stemmy AI Tutor Platform publicly | Real audience demo with AI + emotion recognition |
-| 🎮 **Egypt Game Jam** | VR stealth game under theme "Identity" | Rapid XR prototyping under pressure |
-| 💻 **ITI .NET Core — 120hr Intensive** | Production-grade ASP.NET, EF, SQL (Aug 2025) | Industry-level .NET certification |
-| 🤖 **Zewail City AI Training** | CV for object detection in industrial environments | Applied AI in real factory use case |
-| 💼 **ITIDA GIGs Freelance Trainee** | EYouth-powered program (Jan–May 2025) | Secured first client & freelance contract |
-| 🎓 **ITCS Partial Scholarship** | Nile University — maintained 2022–2025 | Continuous academic excellence |
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -217,15 +206,34 @@ Full-featured task management application built in C# demonstrating OOP design p
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-Saber&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-Saber&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
-[![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Saber&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Saber&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdullah-Saber&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Abdullah-Saber&theme=tokyonight&no-frame=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## 🏆 Awards & Milestones
+
+<div align="center">
+
+| 🏅 Achievement | 📋 Details | 🎯 Impact |
+|:---|:---|:---|
+| 🥈 **2nd Place — UGRF 19th Edition** | Secure image encryption using linear algebra | Recognized for innovative math application |
+| 🚀 **NASA Space Apps Challenge** | Weather forecasting + Deep Learning + NASA data | International hackathon competitor |
+| 🧪 **UGRF 20th Exhibition** | Stemmy AI Tutor publicly showcased | Live demo with emotion recognition AI |
+| 🎮 **Egypt Game Jam** | VR stealth game — theme: "Identity" | XR rapid prototyping under time pressure |
+| 💻 **ITI .NET Core — 120hr Intensive** | ASP.NET MVC, EF, SQL Server (Aug 2025) | Industry-level .NET certification |
+| 🤖 **Zewail City AI Training** | CV object detection in industrial environments | Applied AI in a real factory use case |
+| 💼 **ITIDA GIGs Freelance Trainee** | EYouth-powered program (Jan–May 2025) | Secured first freelance contract |
+| 🎓 **ITCS Partial Scholarship** | Nile University — maintained 2022–2025 | Continuous academic excellence |
 
 </div>
 
@@ -235,31 +243,50 @@ Full-featured task management application built in C# demonstrating OOP design p
 
 ```
 🎓 B.Sc. Computer Science — Nile University             [2022 – 2026]
-   CGPA: 3.5 | ITCS Partial Scholarship (maintained all years)
+   CGPA: 3.5 | ITCS Partial Scholarship (maintained all 4 years)
    
 💼 Freelance Developer — ITIDA GIGs (EYouth)            [Jan – May 2025]
    Technical proposals, client management, first contract secured
 
-💻 ITI .NET Core Summer Intensive — 120 hrs            [Aug 2025]
+💻 ITI .NET Core Summer Intensive — 120 hrs             [Aug 2025]
    ASP.NET MVC, Entity Framework, SQL Server, C#
 
-🤖 AI Intern — Zewail City Summer Training             [Jul – Oct 2022]
+🤖 AI Intern — Zewail City Summer Training              [Jul – Oct 2022]
    Computer Vision: object detection & segmentation in industrial settings
 ```
 
 <br/>
 
+## 💡 Engineering Philosophy
+
 <div align="center">
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Saber&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Problem-First Thinking  →  Build what actually matters│
+│   Failure Awareness       →  Design for edge cases early│
+│   Maintainability         →  Code is a long-term asset  │
+│   Clean Architecture      →  Structure before speed     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### 🤝 Let's Build Something Together
-*Open to full-time roles, freelance projects, and hackathon collabs*
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+*I'm actively open to full-time roles, freelance projects, and hackathon collaborations.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_See_My_Work-Portfolio-08D9D6?style=for-the-badge)](https://abdullah-saber.github.io/MY-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohamed-saber/)
 [![Email](https://img.shields.io/badge/Drop_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:A.mohammed2256@nu.edu.eg)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
