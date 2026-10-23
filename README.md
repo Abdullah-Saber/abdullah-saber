@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student at **Nile University** (CGPA 3.5) who builds real, production-level systems — not just academic exercises. My work spans the full **.NET ecosystem**, **AI-powered platforms** (PyTorch, YOLOv8), modern **interactive web** (React/Three.js), and **XR/Game Development** (Unity, Blender).
+I'm a Computer Science student at **Nile University** (CGPA 3.57- cum laude honors) who builds real, production-level systems — not just academic exercises. My work spans the full **.NET ecosystem**, **AI-powered platforms** (PyTorch, YOLOv8), modern **interactive web** (React/Three.js), and **XR/Game Development** (Unity, Blender).
 
 I've competed in the **NASA Space Apps Challenge**, placed **2nd at UGRF**, shipped AI products, and built a VR Digital Twin of an entire university campus. I care deeply about clean architecture, performance, and engineering systems that actually scale.
 
